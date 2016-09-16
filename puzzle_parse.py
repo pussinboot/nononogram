@@ -23,10 +23,6 @@ def gen_puzzle(puzzle_rep):
 		col = "".join([row[i] for row in rows])
 		col_hints += [[len(block) for block in col.split(" ") if len(block) > 0 ]]
 
-	# print(col_hints)
-	# for rh in row_hints:
-	# 	print(rh)
-
 	puz_tor = Puzzle(row_hints,col_hints,rows)
 	return puz_tor
 

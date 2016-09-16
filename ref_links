@@ -1,0 +1,7 @@
+how to extract all of mario picross puzzles (w/o parsing the gamefaq)
+https://github.com/sopoforic/cgrr-mariospicross/blob/master/mariospicross.py
+
+some solvers
+https://github.com/theRobinator/picross-teacher/tree/master/picross/solvers
+https://github.com/josephtannenbaum/PicrossSolver/blob/master/picross.py
+https://github.com/Loaf-/picross/blob/master/picross.py -- this one also has sample row/col hints from pokemon picross
